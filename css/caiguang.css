@@ -9,8 +9,9 @@ html, body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(87, 0, 255, 0.2), rgba(0, 48, 255, 0.2)), url(../img/bg.jpg);
+    /* background-image: linear-gradient(to left, rgba(87, 0, 255, 0.2), rgba(0, 48, 255, 0.2)), url(../img/bg.jpg); */
     /*background-image: url(../img/bg.jpg);*/
+    background-color: #141c27;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
